@@ -1,0 +1,33 @@
+/* Custom Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; /* Bootstrap light gray */
+    padding-top: 50px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #343a40; /* Bootstrap dark */
+}
+
+button {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+li {
+    background-color: #ffffff; /* White background */
+    border: 1px solid #dee2e6; /* Bootstrap border color */
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
